@@ -1,0 +1,6 @@
+{
+  "name": "Kōbō Store - Minimalist Goods & Studio Objects",
+  "description": "Full-stack e-commerce storefront with curated craftsmanship goods, product details, shopping cart, user registration/login, and complete order processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
